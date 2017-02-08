@@ -1,0 +1,26 @@
+Source: debian-grub-theme
+Section: graphics
+Priority: extra
+Maintainer: Alf Gaida <agaida@siduction.org>
+Build-Depends: debhelper (>= 10),
+               inkscape,
+               grub-common
+Standards-Version: 3.9.8
+Vcs-Git: git://git.siduction.org/packages/siduction-repository/siduction-art-foo.git
+Vcs-Browser: http://git.siduction.org/packages/siduction-repository/siduction-art-foo.git
+
+
+Package: debian-grub-theme
+Architecture: all
+Depends:
+ ${misc:Depends},
+Description: grub-theme for lxliveiso
+ mostly copy from grub-sources
+
+Package: debian-live-grub-theme
+Architecture: all
+Depends:
+ ${misc:Depends},
+ debian-grub-theme
+Description: live grub-theme for lxliveiso
+ mostly copy from grub-sources

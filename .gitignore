@@ -1,0 +1,18 @@
+## misc editor backups and tmp files
+*~
+*.save
+*.swp
+
+/build/
+
+
+/debian/thunderstruck-*
+/debian/paintitblack-*
+/debian/patience-*
+/debian/whiteroom-*
+
+## generated debian files
+/debian/debhelper-build-stamp
+/debian/files
+/debian/*.log
+/debian/*.substvars

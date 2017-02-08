@@ -1,0 +1,11 @@
+debian-grub-theme (0.11.1~2) unstable; urgency=medium
+
+  * fix the background and the logo 
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 08 Feb 2017 21:18:39 +0100
+
+debian-grub-theme (0.11.1~1) unstable; urgency=low
+
+  * initial release
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 08 Feb 2017 02:05:06 +0100
