@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1092.2667"
-   height="106.66666"
+   width="591.26672"
+   height="179.66666"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.0 r15299"
    sodipodi:docname="logo.svg"
-   viewBox="0 0 1024 100">
+   viewBox="0 0 554.3125 168.4375">
   <defs
      id="defs4">
     <linearGradient
@@ -100,8 +100,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="548.47005"
-     inkscape:cy="-49.597987"
+     inkscape:cx="363.47005"
+     inkscape:cy="-64.597987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -114,7 +114,7 @@
      inkscape:guide-bbox="true"
      borderlayer="true">
     <sodipodi:guide
-       position="155.625,27.187501"
+       position="442.50001,27.187501"
        orientation="0,1"
        id="guide313"
        inkscape:locked="false" />
@@ -122,6 +122,16 @@
        position="156.56249,71.250007"
        orientation="0,1"
        id="guide315"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.4999996,27.187503"
+       orientation="1,0"
+       id="guide74"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="533.43747,-72.187507"
+       orientation="1,0"
+       id="guide76"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -140,27 +150,27 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-952.36218)">
+     transform="translate(0,-883.92216)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.61842537px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.47615159;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.61842537px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.47615159"
        x="305.23676"
-       y="1035.842"
+       y="972.09198"
        id="text24023-0"><tspan
-         y="1035.842"
+         y="972.09198"
          x="305.23676"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.80757904px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.47615159;"
-         id="tspan309">0.11.1 <tspan
-   style="font-size:45px;fill:#f9f9f9;"
-   id="tspan199">based on debian/sid</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.80757904px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.47615159"
+         id="tspan38">0.11.1<tspan
+   style="font-size:45px;fill:#f9f9f9"
+   id="tspan40" /></tspan></text>
     <rect
        style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.31289876"
        id="rect4475"
        width="6.5644917"
        height="6.5644283"
        x="-38.688339"
-       y="1073.5039"
+       y="1009.7539"
        ry="6.5285938e-05" />
     <rect
        style="fill:#ff6600;fill-opacity:1"
@@ -172,23 +182,36 @@
     <image
        sodipodi:absref="/home/agaida/work/siduction/code/lxliveiso/packages/debian-grub-theme/unstable/svg/lxqt-white.png"
        xlink:href="lxqt-white.png"
-       y="938.45593"
-       x="-13.270424"
-       id="image304"
-       preserveAspectRatio="none"
+       width="307.71063"
        height="126.77678"
-       width="307.71063" />
+       preserveAspectRatio="none"
+       id="image304"
+       x="-13.270424"
+       y="874.70593" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot201"
-       style="fill:#ff00ff;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:25px;letter-spacing:0px;word-spacing:0px;"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion203"
-         style="fill:#ff00ff;"><rect
+         style="fill:#ff00ff"><rect
            id="rect205"
            width="1277"
            height="365"
            x="-40"
            y="-75.333344"
-           style="fill:#ff00ff;" /></flowRegion><flowPara
-         id="flowPara207"></flowPara></flowRoot>  </g>
+           style="fill:#ff00ff" /></flowRegion><flowPara
+         id="flowPara207" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.7924118px;line-height:34.74051285px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.73702574"
+       x="4.8881187"
+       y="1038.5059"
+       id="text24023-0-3"><tspan
+         y="1038.5059"
+         x="4.8881187"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.85128784px;line-height:34.74051285px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.73702574"
+         id="tspan38-5"><tspan
+           style="font-size:52.95265961px;line-height:34.74051285px;fill:#f9f9f9;stroke-width:1.73702574"
+           id="tspan40-3">based on debian/sid</tspan></tspan></text>
+  </g>
 </svg>

@@ -1,4 +1,4 @@
-Source: debian-grub-theme
+Source: lxqt-grub-theme
 Section: graphics
 Priority: extra
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -6,21 +6,23 @@ Build-Depends: debhelper (>= 10),
                inkscape,
                grub-common
 Standards-Version: 3.9.8
-Vcs-Git: git://git.siduction.org/packages/siduction-repository/siduction-art-foo.git
-Vcs-Browser: http://git.siduction.org/packages/siduction-repository/siduction-art-foo.git
+Vcs-Git: https://github.com/lxlive/lxqt-grub-theme
+Vcs-Browser: https://github.com/lxlive/lxqt-grub-theme
 
 
-Package: debian-grub-theme
+Package: lxqt-grub-theme
 Architecture: all
+Provides: grub-theme
 Depends:
  ${misc:Depends},
-Description: grub-theme for lxliveiso
- mostly copy from grub-sources
+Description: grub-theme for LXQt Live
+ mostly copied from grub-sources
 
-Package: debian-live-grub-theme
+Package: lxqt-live-grub-theme
 Architecture: all
+Provides: grub-theme
 Depends:
  ${misc:Depends},
- debian-grub-theme
-Description: live grub-theme for lxliveiso
- mostly copy from grub-sources
+ lxqt-grub-theme
+Description: live grub-theme for LXQt Live
+ mostly copied from grub-sources

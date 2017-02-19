@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-NAME=debian
+NAME=lxqt
 
 all: background logo font icons menu slider highlight userpass themetxt livetxt
 icons: theme/icons/*.svg
@@ -20,8 +20,6 @@ background: dir
 
 logo: dir
 	inkscape --without-gui \
-		 --export-width=1024 \
-		 --export-height=100 \
 		 --export-png="build/$(NAME)/logo.png" \
 			svg/logo.svg
 
@@ -98,7 +96,7 @@ themetxt:
 	cp -v theme/theme.txt build/$(NAME)
 
 livetxt:
-	cp -a build/$(NAME) build/$(NAME)-live
+	cp -av build/$(NAME) build/$(NAME)-live
 	cp -v theme/theme-live.txt build/$(NAME)-live/theme.txt
 
 

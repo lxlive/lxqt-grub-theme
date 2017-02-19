@@ -7,7 +7,7 @@ title-text: ""
 
 + boot_menu {
 	left = 15%
-	top = 20%
+	top = 30%
 	width = 75%
 	height = 60%
 	item_font = "u_vga16 16"
@@ -28,15 +28,14 @@ title-text: ""
 }
 
 + image {
-	left = 0%
-	top = 84%
-        width=100%
+	left = 5%
+	top = 5%
 	file = "logo.png"
 }
 
 + image {
-        left = 17%
-        top = 15%
+        left = 6%
+        top = 23%
         file = "userpass.png"
 }
 
